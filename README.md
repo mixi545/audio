@@ -5,8 +5,8 @@
 ![SampleRate](https://img.shields.io/badge/SampleRate-16kHz-orange)
 ![Channels](https://img.shields.io/badge/Channels-Mono-blue)
 
-本项目是一个专门为 **ASR (自动语音识别) 模型测试** 定制的标准化音频数据集。它涵盖了 20 种语言/方言，旨在提供一个多语种环境下的基准测试集。
-
+本项目是一个专门为 **ASR (自动语音识别) 模型测试** 定制的标准化音频数据集。它涵盖了 18 种语言/方言，旨在提供一个多语种环境下的基准测试集。
+自用的.....
 ---
 
 ## 🌟 项目特性
