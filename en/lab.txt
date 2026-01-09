@@ -1,0 +1,100 @@
+en_001	I can learn something from the desert, too.
+en_002	It's hard to compare something necessary and mundane with something I'm excited about.
+en_003	This sapling will once become a giant oak tree.
+en_004	The other son was a poet, and delighted all of Rome with his beautiful verses.
+en_005	Having heard that, the boy became even more interested in alchemy.
+en_006	A scientist in a lab coat is using a microscope.
+en_007	She ate an old pear and started suffocating.
+en_008	She has always been very kind and friendly to everyone, even strangers.
+en_009	"Learn to recognize omens, and follow them," the old king had said.
+en_010	How about once more around the park?
+en_011	He was sure the girl would never understand.
+en_012	In alchemy, it's called the Soul of the World.
+en_013	It was difficult not to think about what he had left behind.
+en_014	The dead soldiers were replaced by others, and life went on.
+en_015	Programming requires brains.
+en_016	And I will tell you how to find the hidden treasure.
+en_017	He bought some tinfoil to build a hat.
+en_018	I am in a good mood right now.
+en_019	That's what I'm going to do.
+en_020	"This is the first phase of the job," he said.
+en_021	Who is your favourite author?
+en_022	Two people looking out over the ocean at a sunset with purple sky and waters.
+en_023	Two small boys are getting into a grayish colored van.
+en_024	Please play below the lion rock by stereo mike
+en_025	"I'm surprised," the boy said.
+en_026	Wondrous is the strength of cheerfulness.
+en_027	Mario went to the CD player and pressed shuffle.
+en_028	It sort of makes a fellow lose faith in himself.
+en_029	It infuriates me, and I don't know why.
+en_030	I don't believe in voodoo.
+en_031	The Englishman asked if they were in danger.
+en_032	The miner had abandoned everything to go mining for emeralds.
+en_033	"He needs three days," answered the alchemist.
+en_034	Three people eating in a cafeteria
+en_035	Carbon dioxide is causing global warming.
+en_036	Then she again took his hands and studied them carefully.
+en_037	There was a full moon, and the boy told the Englishman the story of his life.
+en_038	So I simply structure my list around my motivations and situations.
+en_039	Spotted dick is a classic British pudding.
+en_040	I say we don't go out any more.
+en_041	At the same time, people were passing my shop all the time, heading for Mecca.
+en_042	He had used the two stones only once, one morning when he was at a marketplace.
+en_043	Man paddles red kayak, orange kayak in background.
+en_044	A man and a girl stand in front of a large crowd.
+en_045	How about some wine?
+en_046	The Englishman was disappointed.
+en_047	A deputy representative
+en_048	Did you see any ghosts?
+en_049	A surfer catches a large wave.
+en_050	The cake is a lie.
+en_051	Policemen consider the mafia responsible for the massacre.
+en_052	Hold your nose to keep the smell from disabling your motor functions.
+en_053	There were mountains in the distance.
+en_054	He remembered what the old man had said about offering something you didn't even have yet.
+en_055	Henderson stood up with a spade in his hand.
+en_056	From then on, the boy understood his heart.
+en_057	The boy was surprised at his thoughts.
+en_058	"It doesn't matter," he said to his sheep.
+en_059	He didn't want to cry with the other people there.
+en_060	The genies were the spirits of good and evil.
+en_061	A surfer is riding a wave that is beginning to tube
+en_062	Will you get out and let me handle this?
+en_063	Gentlemen of the Press!
+en_064	All the birds began to sing at the first light of dawn.
+en_065	You don't rub the baby dry.
+en_066	Man in red tshirt and baseball cap viewed from above he is has a pile of posters
+en_067	I would if I thought I'd hear anything worth listening to.
+en_068	A woman lays on a sofa in a yard.
+en_069	A local band performing at a local venue.
+en_070	My friend bought all the other sheep immediately.
+en_071	"I'm an adventurer, looking for treasure," he said to himself.
+en_072	Please don't appeal to my Sentimental side.
+en_073	All the lawyers in the world aren't going to help you!
+en_074	Please take a business card.
+en_075	"Does a man's heart always help him?" the boy asked the alchemist.
+en_076	You're a big help.
+en_077	I've been at it for over two years and I'm still discovering new ideas.
+en_078	I'll kill both of them!
+en_079	We have that all figured out.
+en_080	The first day passed.
+en_081	Mr. Lee can't be bothered now.
+en_082	And, if you improve on the present, what comes later will also be better.
+en_083	I want to book an oyster bar for one in the Navy Yard City.
+en_084	The train pulled into the station.
+en_085	Fifty bucks ain't going to ruin me.
+en_086	Citizens in areas affected by the typhoon are advised to leave their homes immediately.
+en_087	Television can make you dumb, but it can also be good education.
+en_088	We don't have the budget to produce it in studio quality.
+en_089	He regretted having spoken to the camel driver about what he had seen in the desert.
+en_090	Even when all you want to do is travel?
+en_091	I have the money I need to buy my sheep.
+en_092	one man and a woman sitting on a table in a restaurant eating dinner
+en_093	Three dogs running on tire tracks in snow.
+en_094	I still can't understand it though.
+en_095	"All I saw was an army," said the boy.
+en_096	You lived your life in a loving way, and died with dignity.
+en_097	I have been waiting for you here at this oasis for a long time.
+en_098	He took the fourth part and handed it to the monk.
+en_099	Two girls are sitting on the steps, and one girl is laughing.
+en_100	Two little boys are at a table with a box of Legos.

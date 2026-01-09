@@ -1,0 +1,100 @@
+tr_001	Pek çoğu da Roman toplumundan geliyor.
+tr_002	Geçiş ülkelerinde yaşananlar ise karışık.
+tr_003	Bunu kanıtlayacak pek fazla delil yok.
+tr_004	AB de operasyona olumlu tepki gösterdi.
+tr_005	Yaşlılara kim bakacak?
+tr_006	Makedonya'daki her ev ankete katılacak.
+tr_007	Başbakan İvo Sanader sorunu kabul ediyor.
+tr_008	Ağları en çok kullananlar gençler.
+tr_009	Daha somut konuşalım.
+tr_010	Ülkesi için savaştı.
+tr_011	Stadyumlarda sık sık kavgalar çıkıyor.
+tr_012	İki halterci Pekin'de de altın için yarışacak.
+tr_013	Bazı işçiler de aylardır maaşlarını alamıyorlar.
+tr_014	Kamuoyuna sunulan proje büyük ilgi çekti.
+tr_015	İhaleye sekiz başka şirket de katıldı.
+tr_016	Kosovalı liderleri yoğun bir süreç bekliyor.
+tr_017	Fakat bunların yanında kötü haberler de var.
+tr_018	Gürültülüydü, farklıydı, eğlenceliydi.
+tr_019	Bu iki ülke ile ilişkileriniz nasıl?
+tr_020	Örneğin maaşlar artıyor.
+tr_021	Bu ülkenin zamanı azalıyor.
+tr_022	Üyelik ufukta göründü, ancakHırvat halkı buna hazır mı?
+tr_023	Bilgi, önyargıyı çökertir.
+tr_024	O zamandan beri ara sıra seyyar satıcılık yapmış.
+tr_025	Sevilen bir kış içkisi de juva.
+tr_026	Artık İtalya da herkesin hedefi konumunda.
+tr_027	Fakat bir çok kişi için geçiş acı tatlı oldu.
+tr_028	Ben henüz böyle bir uzlaşma göremiyorum.
+tr_029	Görüşmeler başarılı oldu ...
+tr_030	Kosova'nın çok ırklı polis gücü ne zaman bu işi devralabilecek?
+tr_031	Sonunda taşınmak zorunda kaldılar.
+tr_032	Görüşmelerde Kosova konusuna da değinildi.
+tr_033	İndirim herkes için geçerli olmayacak.
+tr_034	Hareket, etnik Rusların protestolarına yol açtı.
+tr_035	Geri kalan yufkalarla da bu işlemi tekrarlayın.
+tr_036	Başlıca reform alanlarından biri tarım olacak.
+tr_037	Davanın aylarca sürmesi bekleniyor.
+tr_038	Ancak oylama planlandığı şekilde gerçekleşecek mi?
+tr_039	Ancak muhalefet plandan pek memnun değil.
+tr_040	Bugünse Pobjeda'nın üretimi zayıf.
+tr_041	Oruçtan sonra Sırplar et yemekleri yiyorlar.
+tr_042	Aşırı kadrolaşma çözüm bekleyen sorunlardan biri.
+tr_043	Podgorica'da neden bu kadar çok ayakkabı mağazası var?
+tr_044	Bunların hiçbiri bizi etkilemez.
+tr_045	Her hükümet aynı olacak.
+tr_046	Bu kitap bir kurguya dayanıyor.
+tr_047	Akarsu iki ülke arasında sınır teşkil ediyor.
+tr_048	Aşırı derecede kapalı bir ortamımız var.
+tr_049	İşveren dernekleriyse girişimi destekliyor.
+tr_050	Festival Pazar günü sona eriyor.
+tr_051	Bunun dışında bir başına bu yaşlıca teyze.
+tr_052	Seydiu şimdi iki mevkiyi de kaybetti.
+tr_053	Bu yıla ilişkin beklentileriniz nelerdir?
+tr_054	Sırbistan'da bu hâlâ yapılamıyor.
+tr_055	Bu konu üzerinde iyi düşünmemiz gerekir.
+tr_056	Park alanları çoğunlukla ücretsiz.
+tr_057	Bunlardan ilki, zorunlu orta öğretim getirilmesi.
+tr_058	Özetle Makedonya'yı başarılı bir yıl bekliyor.
+tr_059	Ayrıca planda anaokulları da bulunuyor.
+tr_060	Reform çabalarının hızlandırılması gerekiyor.
+tr_061	Bunlar hala da çözüm bekliyor.
+tr_062	Şimdi ise gurur duyulacak bir tesis haline geldi.
+tr_063	Moisiu bölgenin Avrupa hedeflerini de vurguladı.
+tr_064	Kalan yarısı ise doğaya atılıyor.
+tr_065	Hükümet o tarihte talebini kabul etmişti.
+tr_066	Merwin, festivale üçüncü kez katılıyor.
+tr_067	Bu yapılar güçlü ve işlevsel olmalıdır.
+tr_068	Gençleri Sırbistan'da kalmaya ve gidenleri geri dönmeye nasıl ikna edebiliriz?
+tr_069	İddianameden sonra, Gotovina ortadan kayboldu.
+tr_070	Olay Türkiye'de farklı tepkilere yol açtı.
+tr_071	Yıllarca önce dünya dokuzuncusu olmuştu.
+tr_072	Mesleğinin yanlış anlaşıldığını söylüyor.
+tr_073	Bu oldukça zor bir iş.
+tr_074	Ohri Anlaşması'ndan geriye yapılması gereken ne kaldığını açıklayabilir misiniz?
+tr_075	Belki olurdu.
+tr_076	İş adamı, hayatının seyahatine çıkıyor.
+tr_077	Samaras, anlaşmayı destekleyeceğini söyledi.
+tr_078	Şimdi Karadağ üçü için de tutuklama emri çıkardı.
+tr_079	Belgrad ise bunu inkâr ediyor.
+tr_080	Sonuçta söz konusu isim ne anlama gelmektedir?
+tr_081	Küçük bir Bulgar belediyesi İnternet'e geçti.
+tr_082	Obama bu konuya da değindi.
+tr_083	Petkim Türkiye'nin en büyük petrokimya fabrikası.
+tr_084	Sevgili gözlerini kapatan ve seni gözyaşlarıma kör eden ne?
+tr_085	Gelişmelerden tek etkilenenler siyasiler değil.
+tr_086	Ancak bu bilgiler kamuoyuna açıklanmayacak.
+tr_087	Bunları hatırlamak ve unutmamak.
+tr_088	Peki hedefi ne?
+tr_089	Türkiye ve İtalya geçiş anlaşması imzaladılar.
+tr_090	Kimse ne olduğunu bilmiyor.
+tr_091	Üçüncü şüpheli ise henüz yakalanamadı.
+tr_092	En başarılı uygulamalar olarak neleri dikkate alacağız?
+tr_093	Krivokapiç ise talebi reddetti.
+tr_094	Bu seçimlerin yeni özelliği budur.
+tr_095	Yine de her iki grup farklı sorunlar çıkarıyor.
+tr_096	Peki ülke buna yeterince hazır mı?
+tr_097	Balkanlar'ın yükselen küresel kültüre bağlanma olasılığı nedir?
+tr_098	Buun nedenlerinden birisi trafik sorunuydu.
+tr_099	Google bu ay Romanya'da bir ofis açıyor.
+tr_100	Çalışmalarınızın sonuçlarını tatmin edici buluyor musunuz?

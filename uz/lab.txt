@@ -1,0 +1,100 @@
+uz_001	Majlis batamom intihosiga yetgandi
+uz_002	Zеbi uyqusirаb kеlib, fоnаrni bаlаndlаtdi
+uz_003	Uyqu sifatiga e’tibor bering
+uz_004	Sigir orqamdan ergashib kelardi
+uz_005	Maratning o‘limidan so‘ng inqilobiy telbalik boshlanadi
+uz_006	Qosimni ham chaqirtirib kelishdi
+uz_007	Bo‘yingiz o‘sib qoldi
+uz_008	Tog‘ vakillari ham qirilib bitdi
+uz_009	To‘g‘risini aytsa, tushunishadi
+uz_010	Ular shafqatsiz bo‘lishgandi
+uz_011	Tajribalar muvaffaqiyatli o‘tadi
+uz_012	Yolg‘on, nafrat, o‘ch olish maydonga chiqadi
+uz_013	Xalq ularni la’natlab qarshi oladi
+uz_014	Qirol islohotlarni bekor qiladi
+uz_015	Idish yerga tushib, chilparchin bo‘ldi
+uz_016	Uning nutqlarida ko‘tarinki ohanglar butkul yo‘qolgandi
+uz_017	Avvaliga qo‘rqqanimdan bezgak tutgandek dag‘-dag‘ qaltiradim
+uz_018	U bormi-yo‘qmi, birov parvo qilmadi
+uz_019	Davlat tilini bilmaydigan shaxslar uchun tarjimon xizmatidan foydalanish huquqi ta’minlanadi.
+uz_020	Demak, pandemiya Xitoyning dunyoda birinchi raqamli qudratga aylanishi ehtimolini yanada tezlashtirgan.
+uz_021	U odamlarni tinch qo‘yaylik-da, masalaga iymondagi qat’iyat nuqtayi nazaridan boqaylik.
+uz_022	Kitob birdek, san’atkor va muhandisga, tilshunos yoki sportchiga qiziq bo‘ladi.
+uz_023	Shundan so‘ng zaiflashib qolgan.
+uz_024	Fikrida qat’iy turib oldi.
+uz_025	Osti so‘zi kelishik qo‘shimchasini olgan holatlarda ikki so‘z ajratib yoziladi.
+uz_026	Bu masalada hatto sud ishi ham davom etmoqda.
+uz_027	Lekin menimcha javobi etik tekislikda yotadi.
+uz_028	Mirjalolning sinovlari og‘irroq bo‘lgan.
+uz_029	Mushtariylar bilan savol-javob loyihasini tashkil etmoqchimiz.
+uz_030	Restavratsiya ishlari O‘zbekiston musulmonlari idorasi kutubxonasining restavratsiya laboratoriyasida olib borildi.
+uz_031	Birlashgan Millatlar Tashkilotining tarixi inson huquqlari universal qadriyat ekanini yaqqol isbotladi.
+uz_032	Shu mezonlarga ko‘ra, O‘zbekistonda kambag‘allik darajasi yuqori.
+uz_033	Ravishlar esa vergul so‘raydigan so‘zlar toifasiga kirmaydi.
+uz_034	Ijtimoiy qo‘llab-quvvatlash ham yaxshi yo‘lga qo‘yilgan.
+uz_035	Sopol tovog‘ing sinsa, dod sol.
+uz_036	Ba’zi tashkilotlarning nomini o‘qisangiz, yaxshi, ezgu maqsadlarga xizmat qiladigandek tuyuladi.
+uz_037	Buni eshitib xursand bo‘ldim, ishlashga bajonidil tayyor ekanimni aytdim.
+uz_038	Meni ko‘rib ko‘zini yashirdi.
+uz_039	Qotillik amaliyotini aksariyat hollarda diyorimizda yashaydiganlar qilishgan.
+uz_040	Yoki boshqa narsaga ishlatar edim.
+uz_041	Mantiq bo‘yicha qo‘shib yozilishi kerak.
+uz_042	Alifbo tasdiqlanmay turib, buni hal qilib bo‘lmaydi.
+uz_043	Baydenning moliya vaziri ham so‘ldagi demokratlarga, ham senatdagi Respublikachilarga yoqishi kerak.
+uz_044	Adashib kerakmas mavzuga o‘tib ketdim.
+uz_045	Shunda dilemma hal bo‘ladi.
+uz_046	Aslida nima bo‘lishi kerak?
+uz_047	Bu uning so‘l tarafida ham, o‘ng tarafida ham odami bo‘ladi degani.
+uz_048	Hatto ularning har biri o‘zining kumush yoki mis tangasini zarb etgan.
+uz_049	Bu qoidalar penalti tepuvchining ishini osonlashtiradi.
+uz_050	Bilganlarim va to‘plagan ma’lumotlarim asosida maqola tayyorlardim.
+uz_051	G‘arbda bitta nikoh tan olingan.
+uz_052	O‘zbekiston Respublikasining Birinchi Prezidenti Islom Karimovning quyidagi fikrlarini o‘qing.
+uz_053	Negaki, tahsil olish davomida ko‘p chet ellik tanishlar orttirdim.
+uz_054	Administratsiyadagi siyosiy texnologlar hozir shuni ustida ishlashyapti.
+uz_055	Bu gipoteza Xitoyga ham amal qiladimi?
+uz_056	Bu jarayonda turk qabilalari muhim rol o‘ynagan.
+uz_057	Hozirda halol oziq-ovqat mahsulotlarini topish Yaponiyada ancha osonlashgan.
+uz_058	Hayrat bor edi.
+uz_059	Xijolat tortmang bekam.
+uz_060	Hoshimov Iqtisodiyotining navbatdagi soni.
+uz_061	Shu hafta vaksina beramiz, xohlaganlar, ro‘yxatdan o‘ting, degan email keldi ertalab.
+uz_062	Agar musulmon o‘z birodari bilan urishib qolsa o‘rtalarini isloh qilaman.
+uz_063	Bu davlatga dastlab oliy ta’lim olish maqsadida kelganman.
+uz_064	Dollarni ham shunday defitsitga olib kelishdi.
+uz_065	Dard faqat senda bormi?
+uz_066	Fikrlarni izohlarda qoldirishingiz mumkin.
+uz_067	Biz ularni tiklashimiz qiyin.
+uz_068	Shuning uchun o‘z qarorlari to‘g‘ri ekanligiga o‘zini ishontirib yashaydi.
+uz_069	Movarounnahrdagi qishloqlarda yerlar mayda xo‘jaliklar tomonidan ishlov berilgan.
+uz_070	Beriladigan maosh qilingan mehnatga yarasha bo‘lishi vojib.
+uz_071	Men esa to‘ymas ishqdirman.
+uz_072	Suriya va Qatarda asosiy farq davlatning mavqeida edi.
+uz_073	Eshitgan kunimoq buni tegishli tartibda rahbariyatga bildirganman.
+uz_074	Lekin u shaxs ancha yaxshi fikrlaydigan davlat arbobiga o‘xshadi.
+uz_075	Chunki u yerda saylovchilar yo‘q.
+uz_076	Bir paytlar, o‘sha Paxtakor juda ko‘p penalti tepgan ekan.
+uz_077	Tinch okean o‘z nomidek tinch emas.
+uz_078	Dunyo shiddat bilan o‘zgaryapti.
+uz_079	Gapda qo‘shimcha bilan yasalgan ravishdoshlardan so‘ng ko‘pincha vergul qo‘yiladi.
+uz_080	Ushbu senzuradan o‘tishga urinish og‘ir oqibatlarga olib kelishi mumkin.
+uz_081	Yaxshigayam, yomongayam birdek yaxshi ko‘rinishga urinadigan odam eng xavfli odamdir.
+uz_082	Otashin muhabbat-rashkka, rashk shubhaga aylanishi mumkin.
+uz_083	Bu she’rni katta qizim dunyoga kelganida yozgandim.
+uz_084	Qo‘zg‘olonda turli tabaqalar qatnashadi.
+uz_085	Do‘ppisini osmonga otdi.
+uz_086	Bu ham ancha katta manfiy raqamlar.
+uz_087	Sharq uyg‘onish davri sifatida dunyo ilmiy jamoatchiligi tomonidan haqli ravishda tan olingan.
+uz_088	Lekin yaqinda chop etish rejasi ham bor ekan.
+uz_089	Payg‘ambarimiz musulmonlar sonining ko‘pligi bilan faxrlanishlarini aytganlar, rost.
+uz_090	Uzoq yillar oldingi yaxshilikni eslagan doktor bor ilm-mahoratini ishga solib, kasalni davolashga kirishdi.
+uz_091	Masalan, standart normal taqsimlovga ega o‘zgaruvchini kvadrati bilan, o‘zgaruvchini orasida korrelyatsiya nol.
+uz_092	Hozirgi kunda shu xastalikka davo bo‘ladigan dori ishlab chiqilgan.
+uz_093	Arzimas kelishmovchiliklarni unutsak bo‘lardi.
+uz_094	Kech bo‘lib qolgani uchun yaxshi go‘sht topish qiyin bo‘ldi.
+uz_095	Lekin eng katta hajmdagi boshliqqa gaz to‘ldirsangiz, gaz moddasi bo‘shliqni to‘ldiradi.
+uz_096	Kiyik och qolmaslik uchun ko‘kat yeydi.
+uz_097	Bugungi o‘zbek tilidagi tarixan o‘zakdosh so‘zlarni hammamiz ham farqlay olmaymiz.
+uz_098	Lekin, bu xulosalar noto‘g‘ri ekanligi haqida yozmoqchiman.
+uz_099	O‘zbek tilida mavjud bo‘lmagan narsa, hodisa ma’nosida keladi.
+uz_100	Davlat diniy birlashmalarning faoliyatiga aralashmaydi.
